@@ -1,175 +1,195 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1105" height="300" viewBox="0 0 1105 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="1105" height="299" viewBox="0 0 1105 299">
 <rect width="100%" height="100%" fill="white"/>
-<text x="25" y="18" font-family="DejaVuSans-Bold" font-size="18">MR = 799t</text>
-<text x="1068" y="18" text-anchor="end" font-family="DejaVuSans-Bold" font-size="18">Linea = C22</text>
-<rect x="20" y="135" width="60" height="25" rx="4" ry="4" fill="#4f5b6a" stroke="black"/>
-<rect x="64" y="139" width="14" height="17" rx="2" ry="2" fill="#d32f2f" stroke="black"/>
-<text x="30" y="151" font-family="DejaVuSans-Bold" font-size="14" fill="white">CFI</text>
-<circle cx="26" cy="165" r="3" fill="black"/>
-<circle cx="35" cy="165" r="3" fill="black"/>
-<circle cx="44" cy="165" r="3" fill="black"/>
-<circle cx="53" cy="165" r="3" fill="black"/>
-<circle cx="62" cy="165" r="3" fill="black"/>
-<circle cx="71" cy="165" r="3" fill="black"/>
-<text x="166.0" y="55" text-anchor="middle" font-family="DejaVuSans" font-size="12">V1</text>
-<rect x="130" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="146.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C12</text>
-<rect x="130" y="130" width="32" height="20" fill="#d32f2f" stroke="black"/>
-<circle cx="137" cy="159" r="3" fill="black"/>
-<circle cx="155" cy="159" r="3" fill="black"/>
-<rect x="170" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="186.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C22</text>
-<rect x="170" y="130" width="32" height="20" fill="#d32f2f" stroke="black"/>
-<circle cx="177" cy="159" r="3" fill="black"/>
-<circle cx="195" cy="159" r="3" fill="black"/>
-<line x1="130" y1="156" x2="202" y2="156" stroke="black" stroke-width="1"/>
-<polygon points="166.0,164 153.0,186 179.0,186" fill="white" stroke="black"/>
-<text x="166.0" y="180" text-anchor="middle" font-family="DejaVuSans" font-size="12">C</text>
-<rect x="151.0" y="186" width="30" height="16" fill="white" stroke="black"/>
-<text x="166.0" y="199" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">+23</text>
-<text x="254.0" y="55" text-anchor="middle" font-family="DejaVuSans" font-size="12">V2</text>
-<rect x="218" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="234.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C45</text>
-<rect x="218" y="130" width="32" height="20" fill="#2962ff" stroke="black"/>
-<circle cx="225" cy="159" r="3" fill="black"/>
-<circle cx="243" cy="159" r="3" fill="black"/>
-<rect x="258" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="274.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C22</text>
-<rect x="258" y="130" width="32" height="20" fill="#2962ff" stroke="black"/>
-<circle cx="265" cy="159" r="3" fill="black"/>
-<circle cx="283" cy="159" r="3" fill="black"/>
-<line x1="218" y1="156" x2="290" y2="156" stroke="black" stroke-width="1"/>
-<polygon points="254.0,164 241.0,186 267.0,186" fill="white" stroke="black"/>
-<text x="254.0" y="180" text-anchor="middle" font-family="DejaVuSans" font-size="12">C</text>
-<rect x="239.0" y="186" width="30" height="16" fill="white" stroke="black"/>
-<text x="254.0" y="199" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">+35</text>
-<text x="342.0" y="55" text-anchor="middle" font-family="DejaVuSans" font-size="12">V3</text>
-<rect x="306" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="322.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C12</text>
-<rect x="306" y="130" width="32" height="20" fill="#2e7d32" stroke="black"/>
-<circle cx="313" cy="159" r="3" fill="black"/>
-<circle cx="331" cy="159" r="3" fill="black"/>
-<rect x="346" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="362.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C00</text>
-<rect x="346" y="130" width="32" height="20" fill="#2e7d32" stroke="black"/>
-<circle cx="353" cy="159" r="3" fill="black"/>
-<circle cx="371" cy="159" r="3" fill="black"/>
-<line x1="306" y1="156" x2="378" y2="156" stroke="black" stroke-width="1"/>
-<polygon points="342.0,164 329.0,186 355.0,186" fill="white" stroke="black"/>
-<text x="342.0" y="180" text-anchor="middle" font-family="DejaVuSans" font-size="12">C</text>
-<rect x="327.0" y="186" width="30" height="16" fill="white" stroke="black"/>
-<text x="342.0" y="199" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">-05</text>
-<text x="430.0" y="55" text-anchor="middle" font-family="DejaVuSans" font-size="12">V4</text>
-<rect x="394" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="410.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C22</text>
-<rect x="394" y="130" width="32" height="20" fill="#f9a825" stroke="black"/>
-<circle cx="401" cy="159" r="3" fill="black"/>
-<circle cx="419" cy="159" r="3" fill="black"/>
-<rect x="434" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="450.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C12</text>
-<rect x="434" y="130" width="32" height="20" fill="#f9a825" stroke="black"/>
-<circle cx="441" cy="159" r="3" fill="black"/>
-<circle cx="459" cy="159" r="3" fill="black"/>
-<line x1="394" y1="156" x2="466" y2="156" stroke="black" stroke-width="1"/>
-<polygon points="430.0,164 417.0,186 443.0,186" fill="white" stroke="black"/>
-<text x="430.0" y="180" text-anchor="middle" font-family="DejaVuSans" font-size="12">C</text>
-<rect x="415.0" y="186" width="30" height="16" fill="white" stroke="black"/>
-<text x="430.0" y="199" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">00</text>
-<text x="518.0" y="55" text-anchor="middle" font-family="DejaVuSans" font-size="12">V5</text>
-<rect x="482" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="498.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C80</text>
-<rect x="482" y="130" width="32" height="20" fill="#6d6d6d" stroke="black"/>
-<circle cx="489" cy="159" r="3" fill="black"/>
-<circle cx="507" cy="159" r="3" fill="black"/>
-<rect x="522" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="538.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C45</text>
-<rect x="522" y="130" width="32" height="20" fill="#6d6d6d" stroke="black"/>
-<circle cx="529" cy="159" r="3" fill="black"/>
-<circle cx="547" cy="159" r="3" fill="black"/>
-<line x1="482" y1="156" x2="554" y2="156" stroke="black" stroke-width="1"/>
-<polygon points="518.0,164 505.0,186 531.0,186" fill="white" stroke="black"/>
-<text x="518.0" y="180" text-anchor="middle" font-family="DejaVuSans" font-size="12">C</text>
-<rect x="503.0" y="186" width="30" height="16" fill="white" stroke="black"/>
-<text x="518.0" y="199" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">+23</text>
-<text x="606.0" y="55" text-anchor="middle" font-family="DejaVuSans" font-size="12">V6</text>
-<rect x="570" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="586.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C80</text>
-<rect x="570" y="130" width="32" height="20" fill="#d32f2f" stroke="black"/>
-<circle cx="577" cy="159" r="3" fill="black"/>
-<circle cx="595" cy="159" r="3" fill="black"/>
-<rect x="610" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="626.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C80</text>
-<rect x="610" y="130" width="32" height="20" fill="#d32f2f" stroke="black"/>
-<circle cx="617" cy="159" r="3" fill="black"/>
-<circle cx="635" cy="159" r="3" fill="black"/>
-<line x1="570" y1="156" x2="642" y2="156" stroke="black" stroke-width="1"/>
-<polygon points="606.0,164 593.0,186 619.0,186" fill="white" stroke="black"/>
-<text x="606.0" y="180" text-anchor="middle" font-family="DejaVuSans" font-size="12">C</text>
-<rect x="591.0" y="186" width="30" height="16" fill="white" stroke="black"/>
-<text x="606.0" y="199" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">+35</text>
-<text x="694.0" y="55" text-anchor="middle" font-family="DejaVuSans" font-size="12">V7</text>
-<rect x="658" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="674.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C45</text>
-<rect x="658" y="130" width="32" height="20" fill="#2962ff" stroke="black"/>
-<circle cx="665" cy="159" r="3" fill="black"/>
-<circle cx="683" cy="159" r="3" fill="black"/>
-<rect x="698" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="714.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C22</text>
-<rect x="698" y="130" width="32" height="20" fill="#2962ff" stroke="black"/>
-<circle cx="705" cy="159" r="3" fill="black"/>
-<circle cx="723" cy="159" r="3" fill="black"/>
-<line x1="658" y1="156" x2="730" y2="156" stroke="black" stroke-width="1"/>
-<polygon points="694.0,164 681.0,186 707.0,186" fill="white" stroke="black"/>
-<text x="694.0" y="180" text-anchor="middle" font-family="DejaVuSans" font-size="12">C</text>
-<rect x="679.0" y="186" width="30" height="16" fill="white" stroke="black"/>
-<text x="694.0" y="199" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">-05</text>
-<text x="782.0" y="55" text-anchor="middle" font-family="DejaVuSans" font-size="12">V8</text>
-<rect x="746" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="762.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C80</text>
-<rect x="746" y="130" width="32" height="20" fill="#2e7d32" stroke="black"/>
-<circle cx="753" cy="159" r="3" fill="black"/>
-<circle cx="771" cy="159" r="3" fill="black"/>
-<rect x="786" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="802.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C22</text>
-<rect x="786" y="130" width="32" height="20" fill="#2e7d32" stroke="black"/>
-<circle cx="793" cy="159" r="3" fill="black"/>
-<circle cx="811" cy="159" r="3" fill="black"/>
-<line x1="746" y1="156" x2="818" y2="156" stroke="black" stroke-width="1"/>
-<polygon points="782.0,164 769.0,186 795.0,186" fill="white" stroke="black"/>
-<text x="782.0" y="180" text-anchor="middle" font-family="DejaVuSans" font-size="12">C</text>
-<rect x="767.0" y="186" width="30" height="16" fill="white" stroke="black"/>
-<text x="782.0" y="199" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">+23</text>
-<text x="870.0" y="55" text-anchor="middle" font-family="DejaVuSans" font-size="12">V9</text>
-<rect x="834" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="850.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C45</text>
-<rect x="834" y="130" width="32" height="20" fill="#f9a825" stroke="black"/>
-<circle cx="841" cy="159" r="3" fill="black"/>
-<circle cx="859" cy="159" r="3" fill="black"/>
-<rect x="874" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="890.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C80</text>
-<rect x="874" y="130" width="32" height="20" fill="#f9a825" stroke="black"/>
-<circle cx="881" cy="159" r="3" fill="black"/>
-<circle cx="899" cy="159" r="3" fill="black"/>
-<line x1="834" y1="156" x2="906" y2="156" stroke="black" stroke-width="1"/>
-<polygon points="870.0,164 857.0,186 883.0,186" fill="white" stroke="black"/>
-<text x="870.0" y="180" text-anchor="middle" font-family="DejaVuSans" font-size="12">C</text>
-<rect x="855.0" y="186" width="30" height="16" fill="white" stroke="black"/>
-<text x="870.0" y="199" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">00</text>
-<text x="958.0" y="55" text-anchor="middle" font-family="DejaVuSans" font-size="12">V10</text>
-<rect x="922" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="938.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C12</text>
-<rect x="922" y="130" width="32" height="20" fill="#6d6d6d" stroke="black"/>
-<circle cx="929" cy="159" r="3" fill="black"/>
-<circle cx="947" cy="159" r="3" fill="black"/>
-<rect x="962" y="90" width="32" height="18" fill="white" stroke="black"/>
-<text x="978.0" y="104" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">C00</text>
-<rect x="962" y="130" width="32" height="20" fill="#6d6d6d" stroke="black"/>
-<circle cx="969" cy="159" r="3" fill="black"/>
-<circle cx="987" cy="159" r="3" fill="black"/>
-<line x1="922" y1="156" x2="994" y2="156" stroke="black" stroke-width="1"/>
-<polygon points="958.0,164 945.0,186 971.0,186" fill="white" stroke="black"/>
-<text x="958.0" y="180" text-anchor="middle" font-family="DejaVuSans" font-size="12">C</text>
-<rect x="943.0" y="186" width="30" height="16" fill="white" stroke="black"/>
-<text x="958.0" y="199" text-anchor="middle" font-family="DejaVuSans-Bold" font-size="14">-05</text>
-<text x="1022" y="292" text-anchor="end" font-family="DejaVuSans-Oblique" font-size="17">Severino Cargetti</text>
+<text x="25" y="28" font-family="DejaVuSans-Bold" font-size="18">MR = 799t</text>
+<text x="1080" y="28" text-anchor="end" font-family="DejaVuSans-Bold" font-size="18">Linea = C22</text>
+<rect x="25" y="146" width="64" height="26" rx="6" ry="6" fill="#5b6676" stroke="black" stroke-width="1"/>
+<rect x="69" y="150" width="16" height="18" rx="3" ry="3" fill="#c62828" stroke="black" stroke-width="1"/>
+<text x="40" y="165" font-family="DejaVuSans" font-size="16" fill="white">CFI</text>
+<circle cx="33" cy="178" r="3" fill="black"/>
+<circle cx="43" cy="178" r="3" fill="black"/>
+<circle cx="53" cy="178" r="3" fill="black"/>
+<circle cx="63" cy="178" r="3" fill="black"/>
+<circle cx="73" cy="178" r="3" fill="black"/>
+<circle cx="83" cy="178" r="3" fill="black"/>
+<text x="180.0" y="70" text-anchor="middle" font-family="DejaVuSans" font-size="14">V1</text>
+<rect x="140" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="158.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C12</text>
+<rect x="140" y="136" width="36" height="16" fill="#d32f2f" stroke="black" stroke-width="1"/>
+<rect x="140" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="148" cy="174" r="3" fill="black"/>
+<circle cx="168" cy="174" r="3" fill="black"/>
+<rect x="184" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="202.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C22</text>
+<rect x="184" y="136" width="36" height="16" fill="#d32f2f" stroke="black" stroke-width="1"/>
+<rect x="184" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="192" cy="174" r="3" fill="black"/>
+<circle cx="212" cy="174" r="3" fill="black"/>
+<line x1="140" y1="170" x2="220" y2="170" stroke="black" stroke-width="1"/>
+<polygon points="180.0,182 166.0,206 194.0,206" fill="white" stroke="black" stroke-width="1"/>
+<text x="180.0" y="200" text-anchor="middle" font-family="DejaVuSans" font-size="14">C</text>
+<rect x="163.0" y="206" width="34" height="18" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="180.0" y="220" text-anchor="middle" font-family="DejaVuSans" font-size="14">+23</text>
+<text x="272.0" y="70" text-anchor="middle" font-family="DejaVuSans" font-size="14">V2</text>
+<rect x="232" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="250.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C45</text>
+<rect x="232" y="136" width="36" height="16" fill="#2962ff" stroke="black" stroke-width="1"/>
+<rect x="232" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="240" cy="174" r="3" fill="black"/>
+<circle cx="260" cy="174" r="3" fill="black"/>
+<rect x="276" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="294.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C22</text>
+<rect x="276" y="136" width="36" height="16" fill="#2962ff" stroke="black" stroke-width="1"/>
+<rect x="276" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="284" cy="174" r="3" fill="black"/>
+<circle cx="304" cy="174" r="3" fill="black"/>
+<line x1="232" y1="170" x2="312" y2="170" stroke="black" stroke-width="1"/>
+<polygon points="272.0,182 258.0,206 286.0,206" fill="white" stroke="black" stroke-width="1"/>
+<text x="272.0" y="200" text-anchor="middle" font-family="DejaVuSans" font-size="14">C</text>
+<rect x="255.0" y="206" width="34" height="18" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="272.0" y="220" text-anchor="middle" font-family="DejaVuSans" font-size="14">+35</text>
+<text x="364.0" y="70" text-anchor="middle" font-family="DejaVuSans" font-size="14">V3</text>
+<rect x="324" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="342.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C12</text>
+<rect x="324" y="136" width="36" height="16" fill="#2e7d32" stroke="black" stroke-width="1"/>
+<rect x="324" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="332" cy="174" r="3" fill="black"/>
+<circle cx="352" cy="174" r="3" fill="black"/>
+<rect x="368" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="386.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C00</text>
+<rect x="368" y="136" width="36" height="16" fill="#2e7d32" stroke="black" stroke-width="1"/>
+<rect x="368" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="376" cy="174" r="3" fill="black"/>
+<circle cx="396" cy="174" r="3" fill="black"/>
+<line x1="324" y1="170" x2="404" y2="170" stroke="black" stroke-width="1"/>
+<polygon points="364.0,182 350.0,206 378.0,206" fill="white" stroke="black" stroke-width="1"/>
+<text x="364.0" y="200" text-anchor="middle" font-family="DejaVuSans" font-size="14">C</text>
+<rect x="347.0" y="206" width="34" height="18" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="364.0" y="220" text-anchor="middle" font-family="DejaVuSans" font-size="14">-05</text>
+<text x="456.0" y="70" text-anchor="middle" font-family="DejaVuSans" font-size="14">V4</text>
+<rect x="416" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="434.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C22</text>
+<rect x="416" y="136" width="36" height="16" fill="#f9a825" stroke="black" stroke-width="1"/>
+<rect x="416" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="424" cy="174" r="3" fill="black"/>
+<circle cx="444" cy="174" r="3" fill="black"/>
+<rect x="460" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="478.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C12</text>
+<rect x="460" y="136" width="36" height="16" fill="#f9a825" stroke="black" stroke-width="1"/>
+<rect x="460" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="468" cy="174" r="3" fill="black"/>
+<circle cx="488" cy="174" r="3" fill="black"/>
+<line x1="416" y1="170" x2="496" y2="170" stroke="black" stroke-width="1"/>
+<polygon points="456.0,182 442.0,206 470.0,206" fill="white" stroke="black" stroke-width="1"/>
+<text x="456.0" y="200" text-anchor="middle" font-family="DejaVuSans" font-size="14">C</text>
+<rect x="439.0" y="206" width="34" height="18" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="456.0" y="220" text-anchor="middle" font-family="DejaVuSans" font-size="14">00</text>
+<text x="548.0" y="70" text-anchor="middle" font-family="DejaVuSans" font-size="14">V5</text>
+<rect x="508" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="526.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C80</text>
+<rect x="508" y="136" width="36" height="16" fill="#6d6d6d" stroke="black" stroke-width="1"/>
+<rect x="508" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="516" cy="174" r="3" fill="black"/>
+<circle cx="536" cy="174" r="3" fill="black"/>
+<rect x="552" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="570.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C45</text>
+<rect x="552" y="136" width="36" height="16" fill="#6d6d6d" stroke="black" stroke-width="1"/>
+<rect x="552" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="560" cy="174" r="3" fill="black"/>
+<circle cx="580" cy="174" r="3" fill="black"/>
+<line x1="508" y1="170" x2="588" y2="170" stroke="black" stroke-width="1"/>
+<polygon points="548.0,182 534.0,206 562.0,206" fill="white" stroke="black" stroke-width="1"/>
+<text x="548.0" y="200" text-anchor="middle" font-family="DejaVuSans" font-size="14">C</text>
+<rect x="531.0" y="206" width="34" height="18" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="548.0" y="220" text-anchor="middle" font-family="DejaVuSans" font-size="14">+23</text>
+<text x="640.0" y="70" text-anchor="middle" font-family="DejaVuSans" font-size="14">V6</text>
+<rect x="600" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="618.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C80</text>
+<rect x="600" y="136" width="36" height="16" fill="#d32f2f" stroke="black" stroke-width="1"/>
+<rect x="600" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="608" cy="174" r="3" fill="black"/>
+<circle cx="628" cy="174" r="3" fill="black"/>
+<rect x="644" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="662.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C80</text>
+<rect x="644" y="136" width="36" height="16" fill="#d32f2f" stroke="black" stroke-width="1"/>
+<rect x="644" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="652" cy="174" r="3" fill="black"/>
+<circle cx="672" cy="174" r="3" fill="black"/>
+<line x1="600" y1="170" x2="680" y2="170" stroke="black" stroke-width="1"/>
+<polygon points="640.0,182 626.0,206 654.0,206" fill="white" stroke="black" stroke-width="1"/>
+<text x="640.0" y="200" text-anchor="middle" font-family="DejaVuSans" font-size="14">C</text>
+<rect x="623.0" y="206" width="34" height="18" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="640.0" y="220" text-anchor="middle" font-family="DejaVuSans" font-size="14">+35</text>
+<text x="732.0" y="70" text-anchor="middle" font-family="DejaVuSans" font-size="14">V7</text>
+<rect x="692" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="710.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C45</text>
+<rect x="692" y="136" width="36" height="16" fill="#2962ff" stroke="black" stroke-width="1"/>
+<rect x="692" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="700" cy="174" r="3" fill="black"/>
+<circle cx="720" cy="174" r="3" fill="black"/>
+<rect x="736" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="754.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C22</text>
+<rect x="736" y="136" width="36" height="16" fill="#2962ff" stroke="black" stroke-width="1"/>
+<rect x="736" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="744" cy="174" r="3" fill="black"/>
+<circle cx="764" cy="174" r="3" fill="black"/>
+<line x1="692" y1="170" x2="772" y2="170" stroke="black" stroke-width="1"/>
+<polygon points="732.0,182 718.0,206 746.0,206" fill="white" stroke="black" stroke-width="1"/>
+<text x="732.0" y="200" text-anchor="middle" font-family="DejaVuSans" font-size="14">C</text>
+<rect x="715.0" y="206" width="34" height="18" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="732.0" y="220" text-anchor="middle" font-family="DejaVuSans" font-size="14">-05</text>
+<text x="824.0" y="70" text-anchor="middle" font-family="DejaVuSans" font-size="14">V8</text>
+<rect x="784" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="802.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C80</text>
+<rect x="784" y="136" width="36" height="16" fill="#2e7d32" stroke="black" stroke-width="1"/>
+<rect x="784" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="792" cy="174" r="3" fill="black"/>
+<circle cx="812" cy="174" r="3" fill="black"/>
+<rect x="828" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="846.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C22</text>
+<rect x="828" y="136" width="36" height="16" fill="#2e7d32" stroke="black" stroke-width="1"/>
+<rect x="828" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="836" cy="174" r="3" fill="black"/>
+<circle cx="856" cy="174" r="3" fill="black"/>
+<line x1="784" y1="170" x2="864" y2="170" stroke="black" stroke-width="1"/>
+<polygon points="824.0,182 810.0,206 838.0,206" fill="white" stroke="black" stroke-width="1"/>
+<text x="824.0" y="200" text-anchor="middle" font-family="DejaVuSans" font-size="14">C</text>
+<rect x="807.0" y="206" width="34" height="18" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="824.0" y="220" text-anchor="middle" font-family="DejaVuSans" font-size="14">+23</text>
+<text x="916.0" y="70" text-anchor="middle" font-family="DejaVuSans" font-size="14">V9</text>
+<rect x="876" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="894.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C45</text>
+<rect x="876" y="136" width="36" height="16" fill="#f9a825" stroke="black" stroke-width="1"/>
+<rect x="876" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="884" cy="174" r="3" fill="black"/>
+<circle cx="904" cy="174" r="3" fill="black"/>
+<rect x="920" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="938.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C80</text>
+<rect x="920" y="136" width="36" height="16" fill="#f9a825" stroke="black" stroke-width="1"/>
+<rect x="920" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="928" cy="174" r="3" fill="black"/>
+<circle cx="948" cy="174" r="3" fill="black"/>
+<line x1="876" y1="170" x2="956" y2="170" stroke="black" stroke-width="1"/>
+<polygon points="916.0,182 902.0,206 930.0,206" fill="white" stroke="black" stroke-width="1"/>
+<text x="916.0" y="200" text-anchor="middle" font-family="DejaVuSans" font-size="14">C</text>
+<rect x="899.0" y="206" width="34" height="18" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="916.0" y="220" text-anchor="middle" font-family="DejaVuSans" font-size="14">00</text>
+<text x="1008.0" y="70" text-anchor="middle" font-family="DejaVuSans" font-size="14">V10</text>
+<rect x="968" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="986.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C12</text>
+<rect x="968" y="136" width="36" height="16" fill="#6d6d6d" stroke="black" stroke-width="1"/>
+<rect x="968" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="976" cy="174" r="3" fill="black"/>
+<circle cx="996" cy="174" r="3" fill="black"/>
+<rect x="1012" y="100" width="36" height="18" fill="white" stroke="black" stroke-width="1"/>
+<text x="1030.0" y="114" text-anchor="middle" font-family="DejaVuSans" font-size="14">C00</text>
+<rect x="1012" y="136" width="36" height="16" fill="#6d6d6d" stroke="black" stroke-width="1"/>
+<rect x="1012" y="154" width="36" height="14" fill="white" stroke="black" stroke-width="1"/>
+<circle cx="1020" cy="174" r="3" fill="black"/>
+<circle cx="1040" cy="174" r="3" fill="black"/>
+<line x1="968" y1="170" x2="1048" y2="170" stroke="black" stroke-width="1"/>
+<polygon points="1008.0,182 994.0,206 1022.0,206" fill="white" stroke="black" stroke-width="1"/>
+<text x="1008.0" y="200" text-anchor="middle" font-family="DejaVuSans" font-size="14">C</text>
+<rect x="991.0" y="206" width="34" height="18" fill="white" stroke="black" stroke-width="1.5"/>
+<text x="1008.0" y="220" text-anchor="middle" font-family="DejaVuSans" font-size="14">-05</text>
+<text x="1075" y="284" text-anchor="end" font-family="DejaVuSans-Oblique" font-size="18">Severino Cargetti</text>
 </svg>
